@@ -1,41 +1,4 @@
 
-// let menu = " 1 - pizzeta común\n 2 - pizzeta con muzarella\n 3 - pizzeta con 1 gusto\n 4 - piezzeta con 2 gustos"
-
-// ----------------------------------
-// let menu1 = "1 - pizzeta común", precioMenu1="200"
-// let menu2 = "2 - pizzeta con muzarella", precioMenu2="250"
-// let menu3 = "3 - pizzeta con muzarella y un gusto", precioMenu3="280"
-// let menu4 = "4 - pizzeta con muzarella y dos gustos", precioMenu4="300"
-
-// let menu=   menu1 + " ---------------------------------------- $ "+ precioMenu1+"\n"+
-//             menu2 + " -------------------------------- $ "+ precioMenu2+"\n"+
-//             menu3 + " -------------------- $"+ precioMenu3+"\n"+
-//             menu4 + " ------------------ $"+ precioMenu4
-
-
-// let menuIngresado=''
-// let pedido=''
-// let total = ''
-// do {
-//     alert(menu)
-//     menuIngresado=Number(prompt("Ingrese su pizzeta"))
-//     switch (menuIngresado) {
-//         case 1 :
-//             pedido=menu1
-//             total='\n \n         Total:  $ ' + precioMenu1
-//             break;
-    
-//         default:
-//             break;
-//     }
-
-//     alert(pedido+total)
-
-// } while (menuIngrsado!=0);
-
-// ---------------------------------------------------------------------------
-
-
 
 const cartilla={
     menu1:{
